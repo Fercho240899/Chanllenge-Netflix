@@ -1,29 +1,5 @@
-# Recreando Netflix
-
-**Diseñado con 💗 por [leonidasesteban.com](https://leonidasesteban.com/)**
-
-### Colores
-
-<!-- Negro -->
-- Primary: #000000
-<!-- Rojo -->
-- Secondary: #D22F26
-<!-- Blanco -->
-- Light: #FFFFFF
-<!-- Gris -->
-- Gray: #686868
-
-### Tipografia
-
-La unica tipografia en este reto es:
-
-- Avenir Next
-
-No se encuentra dentro de Google Fonts pero la encontrar los archivos de la fuente de la carpeta de `fonts` y puedes añadirla a tu proyecto usando la propiedad de css llamada [font-face](https://developer.mozilla.org/es/docs/Web/CSS/@font-face):
-
-```css
-@font-face {
-  font-family: 'Arial';
-  src: url('/Arial.ttf');
-}
-```
+# COVID 19 Map
+Using Google Maps to monitoring coronavirus :(
+- watch in live https://fercho240899.github.io/COVID-19-MAP/
+- API -> https://github.com/Laeyoung/COVID-19-API
+![Fernando Castro Amaro](https://repository-images.githubusercontent.com/524312119/524b094e-0775-439a-b842-bab2c531811c)
