@@ -63,6 +63,7 @@ a{
 .tag{
   /* border: 1px solid red; */
   display: flex;
+  font-size: 12px;
 }
 .tag::before{
   content: '•';
