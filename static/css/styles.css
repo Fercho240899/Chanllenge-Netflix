@@ -59,11 +59,11 @@ a{
   gap: 10px;
   list-style: none;
   padding: 0;
+  font-size: 12px;
 }
 .tag{
   /* border: 1px solid red; */
   display: flex;
-  font-size: 12px;
 }
 .tag::before{
   content: '•';
